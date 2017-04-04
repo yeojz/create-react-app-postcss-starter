@@ -16,8 +16,8 @@ function postcssModules(){
 
 module.exports = {
   plugins: [
-    require("postcss-import"),
-    require("postcss-cssnext"),
-    require("postcss-modules")(postcssModules())
+    require('postcss-import'),
+    require('postcss-cssnext'),
+    require('postcss-modules')(postcssModules())
   ]
 }
