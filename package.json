@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
     "npm-run-all": "^4.0.2",
     "postcss-cli": "^3.0.0",
     "postcss-cssnext": "^2.10.0",
     "postcss-import": "^9.1.0",
     "postcss-modules": "^0.6.4",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2"
-  },
-  "devDependencies": {
     "react-scripts": "0.9.5"
   },
   "scripts": {
