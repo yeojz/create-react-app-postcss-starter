@@ -24,7 +24,7 @@ is run. (This is to allow the `compiled/style.css` to be available first.)
 When any changes are made, css recompilation will be triggered and subsequently the js
 watcher will also be triggered after the change to the compiled css has been made.
 
-## Some differences to create-react-app guide
+## Some differences from the create-react-app guide
 
 ### Preprocessed vs non-preprocessed CSS
 
