@@ -37,5 +37,5 @@ Check out: `AppCustom.css` in `App.js`;
 ### PostCSS modules
 
 `postcss-modules` is included in this example. As such, all files are compiled into
-a single `css` file with class names hashed. A mapping of classes are written to `src/style.json`
+a single `css` file with class names hashed. A mapping of classes are written to `./src/style.json`
 which we can import within the application.
